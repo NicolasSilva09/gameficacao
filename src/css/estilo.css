@@ -73,3 +73,38 @@ header nav a{
 #texto-sobre h3{
     margin-top: 25px;
 }
+#aplicacao{
+    background: #000;
+    display: flex;
+    top: 100px;
+}
+#aplicacao img{
+    position: relative;
+    border-radius: 75px;
+    left: 65%;
+    width: 625px;
+    margin-top: 125px;
+    margin-bottom: 125px;
+}
+#texto-aplicacao{
+    color: #fff;
+    position: absolute;
+    left: 15%;
+    right: 45%;
+    margin-top: 160px;
+    font-size: 1.3rem;
+    font-family: 'Inter', sans-serif;
+}
+#texto-aplicacao h3{
+    margin-top: 25px;
+}
+#texto-aplicacao h2{
+    text-decoration: underline #fff;
+}
+p{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    background: #000;
+    text-align: center;
+    margin-bottom: 20px;
+}
